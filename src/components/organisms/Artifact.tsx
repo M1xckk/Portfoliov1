@@ -28,7 +28,7 @@ export default function ProjectPage({ artifactName, description, tags, links }: 
           </div>
           <div className="self-center relative mt-12 xl:mr-12">
             <a href={links[1]} rel="noopener noreferrer" target="_blank">
-              <Image src={`/images/${artifactName.toLowerCase()}.png`} alt={`${artifactName} Homepage`} width={800} height={800} className={"rounded-lg hover:scale-105 duration-300"} />
+              <Image src={`/images/${artifactName.toLowerCase()}.jpg`} alt={`${artifactName} Homepage`} width={800} height={800} className={"rounded-lg hover:scale-105 duration-300"} />
             </a>
           </div>
         </div>
