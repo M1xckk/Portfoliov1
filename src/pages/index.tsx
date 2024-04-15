@@ -31,7 +31,7 @@ export default function Index() {
     {
       name: "WhiteStone",
       description: "WhiteStone is a AI dentist app that users can through take a image of their teeth and get a report of their teeth health.",
-      tags: ["React", "Next.js", "JavaScript", "NestJS", "Vercel"],
+      tags: ["React", "Next.js", "JavaScript", "openai", "Vercel"],
       links: ["https://github.com/WhiteStoneDental/whitestone_IDSP", "https://whitestone-idsp.vercel.app/"]
     },
     {
