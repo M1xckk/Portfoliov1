@@ -34,12 +34,12 @@ export default function Index() {
       tags: ["React", "Next.js", "JavaScript", "Vercel"],
       links: ["https://github.com/DevynnT/anisos", "https://anisos.vercel.app/"]
     },
-    {
-      name: "EJS",
-      description: "EJS Blog is a website that can teach beginners how to use EJS to make some functions step by step.",
-      tags: ["JavaScript", "HTML", "CSS"],
-      links: ["https://github.com/M1xckk/EJS-Beginner-Guide", "https://m1xckk.github.io/EJS-Beginner-Guide/"]
-    },
+    // {
+    //   name: "EJS",
+    //   description: "EJS Blog is a website that can teach beginners how to use EJS to make some functions step by step.",
+    //   tags: ["JavaScript", "HTML", "CSS"],
+    //   links: ["https://github.com/M1xckk/EJS-Beginner-Guide", "https://m1xckk.github.io/EJS-Beginner-Guide/"]
+    // },
   ]
 
   return (
