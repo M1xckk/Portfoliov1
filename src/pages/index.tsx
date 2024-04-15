@@ -23,16 +23,16 @@ export default function Index() {
       links: ["https://github.com/M1xckk/csharp", "https://buzzreel-web.fly.dev"]
     },
     {
-      name: "AniSOS",
-      description: "AniSOS is a simple animal information web app that allows users to view and search for animals. Users can take a quiz to help them understand how to do when animals are hurt.",
-      tags: ["React", "Next.js", "JavaScript", "Vercel"],
-      links: ["https://github.com/DevynnT/anisos", "https://anisos.vercel.app/"]
-    },
-    {
       name: "WhiteStone",
       description: "WhiteStone is a AI dentist app that users can through take a image of their teeth and get a report of their teeth health.",
       tags: ["React", "Next.js", "JavaScript", "openai", "Vercel","Python", "Tailwind"],
       links: ["https://github.com/WhiteStoneDental/whitestone_IDSP", "https://whitestone-idsp.vercel.app/"]
+    },
+    {
+      name: "AniSOS",
+      description: "AniSOS is a simple animal information web app that allows users to view and search for animals. Users can take a quiz to help them understand how to do when animals are hurt.",
+      tags: ["React", "Next.js", "JavaScript", "Vercel"],
+      links: ["https://github.com/DevynnT/anisos", "https://anisos.vercel.app/"]
     },
     {
       name: "EJS",
