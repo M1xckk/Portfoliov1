@@ -11,6 +11,12 @@ export default function Index() {
 
   const projects = [
     {
+      name: "ProdSnap",
+      description: "ProdSnap is a full stack web app that helps users to add image of their products and set different categories for them. This app using C# and react to build.",
+      tags: ["React", "JavaScript", "Vercel", "Csharp", "Tailwind"],
+      links: ["https://github.com/M1xckk/csfinal", "https://d30gfgkz7qmdtt.cloudfront.net/"]
+    },
+    {
       name: "TravelMeet",
       description: "TravelMeet is full stack web app that helps users connect with new people and discover events in specific locations. It features a dynamic map that provides real-time shared location information of users and events in the selected area. Users can view profiles, follow others, and create groups to plan event visits together.",
       tags: ["React", "Next.js", "TypeScript", "Redis", "Socket.io","Prisma"],
@@ -28,18 +34,6 @@ export default function Index() {
       tags: ["React", "Next.js", "JavaScript", "openai", "Vercel","Python", "Tailwind"],
       links: ["https://github.com/WhiteStoneDental/whitestone_IDSP", "https://whitestone-idsp.vercel.app/"]
     },
-    {
-      name: "AniSOS",
-      description: "AniSOS is a simple animal information web app that allows users to view and search for animals. Users can take a quiz to help them understand how to do when animals are hurt.",
-      tags: ["React", "Next.js", "JavaScript", "Vercel"],
-      links: ["https://github.com/DevynnT/anisos", "https://anisos.vercel.app/"]
-    },
-    // {
-    //   name: "EJS",
-    //   description: "EJS Blog is a website that can teach beginners how to use EJS to make some functions step by step.",
-    //   tags: ["JavaScript", "HTML", "CSS"],
-    //   links: ["https://github.com/M1xckk/EJS-Beginner-Guide", "https://m1xckk.github.io/EJS-Beginner-Guide/"]
-    // },
   ]
 
   return (
