@@ -20,7 +20,7 @@ export default function Index() {
       name: "TravelMeet",
       description: "TravelMeet is full stack web app that helps users connect with new people and discover events in specific locations. It features a dynamic map that provides real-time shared location information of users and events in the selected area. Users can view profiles, follow others, and create groups to plan event visits together.",
       tags: ["React", "Next.js", "TypeScript", "Redis", "Socket.io","Prisma"],
-      links: ["https://github.com/alxlvgit/travel-meet", "https://byrfaqijzp.us17.qoddiapp.com/auth/login"]
+      links: ["https://github.com/alxlvgit/travel-meet", "https://travelmeet.fly.dev/auth/login"]
     },
     {
       name: "BuzzReel",
